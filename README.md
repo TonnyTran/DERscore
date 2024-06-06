@@ -5,4 +5,4 @@ How to use:
 score_dihard.sh --collar 0.00 --scores-dir scoring refer_rttm.rttm system_rttm.rttm
 ```
 
-![alt text](image.png)
+![alt text](local/image.png)
