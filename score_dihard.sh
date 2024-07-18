@@ -8,7 +8,7 @@ set -e -u -o pipefail
 
 # Use a no scoring collar of +/ "collar" seconds around each boundary.
 collar=0.00
-scores_dir=
+scores_dir=score
 
 ################################################################################
 # Parse options, etc.
